@@ -10,3 +10,5 @@ Discord'a yeni gelen "select-menu" özelliğinin discord.js@dev sürümü ile ya
 * `• NOT:` Eğer bir hata alırsanız [MasterG](https://discord.gg/9NZdDbJzmW) sunucusundan ya da [Plotus](https://discord.gg/N4Ze76Ukrk) sunucusundan bana ulaşabilirsiniz.
 
 
+# Örnek Fotoğraflar
+[!örnek-1](https://prnt.sc/1a91m2m)
