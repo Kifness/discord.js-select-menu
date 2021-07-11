@@ -7,6 +7,6 @@ Discord'a yeni gelen "select-menu" özelliğinin discord.js@dev sürümü ile ya
 `• 3:` `config.json` dosyasını dolduruyoruz.
 `• 4:` Konsola `node ./app.js` yazarak botu açıyoruz.
 
-`• NOT:` Eğer bir hata alırsanız https://discord.gg/9NZdDbJzmW (https://discord.gg/masterg) sunucusundan ya da https://discord.gg/N4Ze76Ukrk ( Benim sunucum. ❤) sunucusundan bana ulaşabilirsiniz.
+`• NOT:` Eğer bir hata alırsanız [MasterG](https://discord.gg/9NZdDbJzmW) sunucusundan ya da https://discord.gg/N4Ze76Ukrk) nucusundan bana ulaşabilirsiniz.
 
 
