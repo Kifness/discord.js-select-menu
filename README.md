@@ -16,5 +16,5 @@
 
 
 # Örnek Fotoğraflar
-![örnek-1](https://image.prntscr.com/image/wJdDagBPRouNK88bfahIRw.png)
+![örnek-1](https://image.prntscr.com/image/wJdDagBPRouNK88bfahIRw.png) ![örnek-2](https://image.prntscr.com/image/vbLkARMlTLSzFubteRHazg.png)
 ![örnek-2](https://image.prntscr.com/image/vbLkARMlTLSzFubteRHazg.png)
