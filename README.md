@@ -16,4 +16,4 @@ Discord'a yeni gelen "select-menu" özelliğinin discord.js@dev sürümü ile ya
 
 
 # Örnek Fotoğraflar
-![örnek-1](https://prnt.sc/1a91m2m)
+![örnek-1](https://image.prntscr.com/image/tpSixqikRxidAJzSZowikw.png)
