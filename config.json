@@ -1,0 +1,5 @@
+{
+    "BotToken": "your-bot-token",
+    "BotPrefix": "!",
+    "OwnerID": "your-user-ID"
+}
