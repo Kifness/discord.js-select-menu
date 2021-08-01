@@ -1,3 +1,5 @@
+// Proje sahibi Hourgon#3137
+
 const DiscordJS = require('discord.js');
 const client = new DiscordJS.Client({ intents: [DiscordJS.Intents.FLAGS.GUILDS, DiscordJS.Intents.FLAGS.GUILD_MESSAGES] });
 
