@@ -1,7 +1,7 @@
 # Bilgilendirme
 **•** Discord'a yeni gelen "select-menu" özelliğinin discord.js@dev sürümü ile yapılmış bir taslak projesi. Kendinize göre benim gibi rol seçme / alma, kayıt, vb. şeyleri yapabilirsiniz.
 
-# Kurulum
+## Kurulum
 *Önce konsolu açıp `npm init -y` yazıyoruz. Böylece `package.json` dosyamızı oluşturuyoruz.
 *Konsola `npm i discord.js@dev` yazarak discord.js'in dev. sürümünü indiriyoruz. İnerken hata verebilir, kafanıza takmayın.
 *`config.json` dosyasını dolduruyoruz.
