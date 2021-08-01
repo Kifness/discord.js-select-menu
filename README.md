@@ -3,7 +3,7 @@
 
 # Kurulum
 **-** Önce konsolu açıp `npm init -y` yazıyoruz. Böylece `package.json` dosyamızı oluşturuyoruz.
-`**-** Konsola `npm i discord.js@dev` yazarak discord.js'in dev. sürümünü indiriyoruz. İnerken hata verebilir, kafanıza takmayın.
+**-** Konsola `npm i discord.js@dev` yazarak discord.js'in dev. sürümünü indiriyoruz. İnerken hata verebilir, kafanıza takmayın.
 **-** `config.json` dosyasını dolduruyoruz.
 **-** Konsola `node ./app.js` yazarak botu açıyoruz.
 
